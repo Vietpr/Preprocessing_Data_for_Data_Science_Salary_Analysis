@@ -25,11 +25,7 @@ Data cleaning involves removing or correcting inaccuracies and inconsistencies i
 Data transformation involves converting data into a suitable format for analysis.
 
 ## Conclusion 
-In summary, this project focuses on preprocessing data before training models. By providing a detailed step-by-step guide on data cleaning, transformation, feature engineering, handling missing values, normalization, and data splitting, I aim to ensure the dataset's integrity and quality. I hope this detailed guide is useful for your data science projects and helps you build robust and accurate models.
-
-
-
-
+In summary, this project focuses on data preprocessing before training the model. By cleaning, transforming data, feature engineering, handling missing values, normalization, and data splitting, I aim to ensure the integrity and quality of the dataset. I hope this article will be helpful for your data science projects.
 
 👉 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐭𝐨 𝐏𝐡𝐚𝐦 𝐕𝐚𝐧 𝐕𝐢𝐞𝐭 👈
 
